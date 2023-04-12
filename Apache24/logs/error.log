@@ -1,0 +1,1103 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 6668:tid 500] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 24 17:15:09.418111 2020] [mpm_winnt:notice] [pid 6668:tid 500] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 24 17:15:09.418111 2020] [core:notice] [pid 6668:tid 500] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 24 17:15:09.419111 2020] [mpm_winnt:notice] [pid 6668:tid 500] AH00418: Parent: Created child process 3272
+[Tue Mar 24 17:15:09.627111 2020] [mpm_winnt:notice] [pid 3272:tid 440] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 24 17:15:21.073111 2020] [mpm_winnt:notice] [pid 6668:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 24 17:15:51.072111 2020] [mpm_winnt:notice] [pid 6668:tid 500] AH00431: Parent: Forcing termination of child process 3272
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::20fe:3017:44b7:5236. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 03 16:27:38.763739 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 03 16:27:38.763739 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 03 16:27:38.763739 2020] [core:notice] [pid 14808:tid 884] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 03 16:27:38.765674 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00418: Parent: Created child process 1404
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::20fe:3017:44b7:5236. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::20fe:3017:44b7:5236. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 03 16:27:39.169654 2020] [mpm_winnt:notice] [pid 1404:tid 872] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 14808:tid 884] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 04 09:47:35.321713 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Aug 04 09:47:35.321713 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Aug 04 09:47:35.321713 2020] [core:notice] [pid 14808:tid 884] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Aug 04 09:47:35.327825 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00418: Parent: Created child process 22320
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 04 09:47:36.305945 2020] [mpm_winnt:notice] [pid 22320:tid 868] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 04 09:47:37.306878 2020] [mpm_winnt:notice] [pid 1404:tid 872] AH00364: Child: All worker threads have exited.
+[Tue Aug 04 09:47:51.823708 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 04 09:47:53.824484 2020] [mpm_winnt:notice] [pid 22320:tid 868] AH00364: Child: All worker threads have exited.
+[Tue Aug 04 09:47:53.845103 2020] [mpm_winnt:notice] [pid 14808:tid 884] AH00430: Parent: Child process 22320 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 04 09:48:00.175608 2020] [mpm_winnt:notice] [pid 17272:tid 900] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Aug 04 09:48:00.175608 2020] [mpm_winnt:notice] [pid 17272:tid 900] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Aug 04 09:48:00.175608 2020] [core:notice] [pid 17272:tid 900] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Aug 04 09:48:00.177603 2020] [mpm_winnt:notice] [pid 17272:tid 900] AH00418: Parent: Created child process 22888
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 04 09:48:00.726553 2020] [mpm_winnt:notice] [pid 22888:tid 876] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 05 11:44:03.553688 2020] [mpm_winnt:notice] [pid 17272:tid 900] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 05 11:44:05.616482 2020] [mpm_winnt:notice] [pid 22888:tid 876] AH00364: Child: All worker threads have exited.
+[Wed Aug 05 11:44:05.709648 2020] [mpm_winnt:notice] [pid 17272:tid 900] AH00430: Parent: Child process 22888 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 05 11:44:41.175711 2020] [mpm_winnt:notice] [pid 4712:tid 876] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Aug 05 11:44:41.179845 2020] [mpm_winnt:notice] [pid 4712:tid 876] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Aug 05 11:44:41.179845 2020] [core:notice] [pid 4712:tid 876] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Aug 05 11:44:41.196114 2020] [mpm_winnt:notice] [pid 4712:tid 876] AH00418: Parent: Created child process 7504
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 05 11:44:45.439340 2020] [mpm_winnt:notice] [pid 7504:tid 604] AH00354: Child: Starting 64 worker threads.
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Aug 05 14:14:05.407133 2020] [mpm_winnt:notice] [pid 4712:tid 876] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 05 14:14:07.409967 2020] [mpm_winnt:notice] [pid 7504:tid 604] AH00364: Child: All worker threads have exited.
+[Wed Aug 05 14:14:07.429707 2020] [mpm_winnt:notice] [pid 4712:tid 876] AH00430: Parent: Child process 7504 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 05 14:14:10.026138 2020] [mpm_winnt:notice] [pid 10720:tid 884] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Aug 05 14:14:10.028150 2020] [mpm_winnt:notice] [pid 10720:tid 884] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Aug 05 14:14:10.028150 2020] [core:notice] [pid 10720:tid 884] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Aug 05 14:14:10.030123 2020] [mpm_winnt:notice] [pid 10720:tid 884] AH00418: Parent: Created child process 16012
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 05 14:14:12.091658 2020] [mpm_winnt:notice] [pid 16012:tid 840] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 06 16:06:04.691586 2020] [mpm_winnt:notice] [pid 10720:tid 884] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 06 16:06:06.694259 2020] [mpm_winnt:notice] [pid 16012:tid 840] AH00364: Child: All worker threads have exited.
+[Thu Aug 06 16:06:06.725580 2020] [mpm_winnt:notice] [pid 10720:tid 884] AH00430: Parent: Child process 16012 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::b8b2:d9b7:2569:85b2. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 06 16:06:08.523776 2020] [mpm_winnt:notice] [pid 16572:tid 900] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Aug 06 16:06:08.524773 2020] [mpm_winnt:notice] [pid 16572:tid 900] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Aug 06 16:06:08.524773 2020] [core:notice] [pid 16572:tid 900] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Aug 06 16:06:08.527765 2020] [mpm_winnt:notice] [pid 16572:tid 900] AH00418: Parent: Created child process 7840
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::b8b2:d9b7:2569:85b2. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::b8b2:d9b7:2569:85b2. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 06 16:06:08.927828 2020] [mpm_winnt:notice] [pid 7840:tid 856] AH00354: Child: Starting 64 worker threads.
+[Thu Aug 06 16:07:58.798538 2020] [mpm_winnt:notice] [pid 16572:tid 900] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 06 16:08:00.800519 2020] [mpm_winnt:notice] [pid 7840:tid 856] AH00364: Child: All worker threads have exited.
+[Thu Aug 06 16:08:00.814515 2020] [mpm_winnt:notice] [pid 16572:tid 900] AH00430: Parent: Child process 7840 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using fe80::b8b2:d9b7:2569:85b2. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 06 16:08:02.652929 2020] [mpm_winnt:notice] [pid 17352:tid 948] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Aug 06 16:08:02.652929 2020] [mpm_winnt:notice] [pid 17352:tid 948] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Aug 06 16:08:02.652929 2020] [core:notice] [pid 17352:tid 948] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Aug 06 16:08:02.659910 2020] [mpm_winnt:notice] [pid 17352:tid 948] AH00418: Parent: Created child process 10552
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::b8b2:d9b7:2569:85b2. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::b8b2:d9b7:2569:85b2. Set the 'ServerName' directive globally to suppress this message
+[Thu Aug 06 16:08:03.079102 2020] [mpm_winnt:notice] [pid 10552:tid 868] AH00354: Child: Starting 64 worker threads.
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 09 16:26:59.266590 2020] [core:warn] [pid 5484:tid 968] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 09 16:26:59.288259 2020] [mpm_winnt:notice] [pid 5484:tid 968] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Aug 09 16:26:59.288259 2020] [mpm_winnt:notice] [pid 5484:tid 968] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Aug 09 16:26:59.288259 2020] [core:notice] [pid 5484:tid 968] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Aug 09 16:26:59.368652 2020] [mpm_winnt:notice] [pid 5484:tid 968] AH00418: Parent: Created child process 8164
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 09 16:27:02.479077 2020] [mpm_winnt:notice] [pid 8164:tid 572] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 09 22:34:01.626207 2020] [core:warn] [pid 5512:tid 904] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 09 22:34:01.725309 2020] [mpm_winnt:notice] [pid 5512:tid 904] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Aug 09 22:34:01.725309 2020] [mpm_winnt:notice] [pid 5512:tid 904] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Aug 09 22:34:01.725309 2020] [core:notice] [pid 5512:tid 904] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Aug 09 22:34:01.770346 2020] [mpm_winnt:notice] [pid 5512:tid 904] AH00418: Parent: Created child process 8156
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 09 22:34:06.462228 2020] [mpm_winnt:notice] [pid 8156:tid 920] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 10 07:49:44.922979 2020] [mpm_winnt:notice] [pid 5512:tid 904] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 10 07:49:46.929718 2020] [mpm_winnt:notice] [pid 8156:tid 920] AH00364: Child: All worker threads have exited.
+[Mon Aug 10 07:49:46.968077 2020] [mpm_winnt:notice] [pid 5512:tid 904] AH00430: Parent: Child process 8156 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 10 07:50:13.505159 2020] [mpm_winnt:notice] [pid 5524:tid 928] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 10 07:50:13.506156 2020] [mpm_winnt:notice] [pid 5524:tid 928] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 10 07:50:13.506156 2020] [core:notice] [pid 5524:tid 928] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 10 07:50:13.528678 2020] [mpm_winnt:notice] [pid 5524:tid 928] AH00418: Parent: Created child process 8824
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 10 07:50:18.548449 2020] [mpm_winnt:notice] [pid 8824:tid 872] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 12 12:36:12.561355 2020] [core:warn] [pid 4604:tid 652] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 12 12:36:12.565192 2020] [mpm_winnt:notice] [pid 4604:tid 652] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Aug 12 12:36:12.565192 2020] [mpm_winnt:notice] [pid 4604:tid 652] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Aug 12 12:36:12.565192 2020] [core:notice] [pid 4604:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Aug 12 12:36:12.583297 2020] [mpm_winnt:notice] [pid 4604:tid 652] AH00418: Parent: Created child process 7188
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 12 12:36:18.194046 2020] [mpm_winnt:notice] [pid 7188:tid 652] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 12 23:49:32.580030 2020] [mpm_winnt:notice] [pid 4604:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 12 23:49:34.587728 2020] [mpm_winnt:notice] [pid 7188:tid 652] AH00364: Child: All worker threads have exited.
+[Wed Aug 12 23:49:34.694278 2020] [mpm_winnt:notice] [pid 4604:tid 652] AH00430: Parent: Child process 7188 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 12 23:50:01.315452 2020] [mpm_winnt:notice] [pid 4756:tid 948] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Aug 12 23:50:01.315452 2020] [mpm_winnt:notice] [pid 4756:tid 948] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Aug 12 23:50:01.315452 2020] [core:notice] [pid 4756:tid 948] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Aug 12 23:50:01.339391 2020] [mpm_winnt:notice] [pid 4756:tid 948] AH00418: Parent: Created child process 7340
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 12 23:50:05.890853 2020] [mpm_winnt:notice] [pid 7340:tid 892] AH00354: Child: Starting 64 worker threads.
+[Fri Aug 14 12:25:19.888088 2020] [mpm_winnt:notice] [pid 4756:tid 948] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Aug 14 12:25:21.923178 2020] [mpm_winnt:notice] [pid 7340:tid 892] AH00364: Child: All worker threads have exited.
+[Fri Aug 14 12:25:22.034947 2020] [mpm_winnt:notice] [pid 4756:tid 948] AH00430: Parent: Child process 7340 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 14 12:25:48.455430 2020] [mpm_winnt:notice] [pid 4892:tid 656] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 14 12:25:48.455430 2020] [mpm_winnt:notice] [pid 4892:tid 656] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Aug 14 12:25:48.455430 2020] [core:notice] [pid 4892:tid 656] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Aug 14 12:25:48.485722 2020] [mpm_winnt:notice] [pid 4892:tid 656] AH00418: Parent: Created child process 7692
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 14 12:25:52.800873 2020] [mpm_winnt:notice] [pid 7692:tid 952] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 17 19:17:09.323198 2020] [mpm_winnt:notice] [pid 4892:tid 656] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 17 19:17:11.357156 2020] [mpm_winnt:notice] [pid 7692:tid 952] AH00364: Child: All worker threads have exited.
+[Mon Aug 17 19:17:11.450230 2020] [mpm_winnt:notice] [pid 4892:tid 656] AH00430: Parent: Child process 7692 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:17:44.913836 2020] [mpm_winnt:notice] [pid 4916:tid 796] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 17 19:17:44.913836 2020] [mpm_winnt:notice] [pid 4916:tid 796] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 17 19:17:44.913836 2020] [core:notice] [pid 4916:tid 796] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 17 19:17:44.942436 2020] [mpm_winnt:notice] [pid 4916:tid 796] AH00418: Parent: Created child process 8508
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:17:50.181067 2020] [mpm_winnt:notice] [pid 8508:tid 4] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 17 19:18:03.362650 2020] [mpm_winnt:notice] [pid 4916:tid 796] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 17 19:18:05.395109 2020] [mpm_winnt:notice] [pid 8508:tid 4] AH00364: Child: All worker threads have exited.
+[Mon Aug 17 19:18:05.414995 2020] [mpm_winnt:notice] [pid 4916:tid 796] AH00430: Parent: Child process 8508 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:18:41.756188 2020] [mpm_winnt:notice] [pid 4368:tid 916] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 17 19:18:41.756188 2020] [mpm_winnt:notice] [pid 4368:tid 916] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 17 19:18:41.756188 2020] [core:notice] [pid 4368:tid 916] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 17 19:18:41.827149 2020] [mpm_winnt:notice] [pid 4368:tid 916] AH00418: Parent: Created child process 8188
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:18:47.251307 2020] [mpm_winnt:notice] [pid 8188:tid 980] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 17 19:18:58.166785 2020] [mpm_winnt:notice] [pid 4368:tid 916] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 17 19:19:00.276709 2020] [mpm_winnt:notice] [pid 8188:tid 980] AH00364: Child: All worker threads have exited.
+[Mon Aug 17 19:19:00.297656 2020] [mpm_winnt:notice] [pid 4368:tid 916] AH00430: Parent: Child process 8188 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:20:38.831506 2020] [mpm_winnt:notice] [pid 5044:tid 920] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 17 19:20:38.832508 2020] [mpm_winnt:notice] [pid 5044:tid 920] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 17 19:20:38.832508 2020] [core:notice] [pid 5044:tid 920] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 17 19:20:38.861757 2020] [mpm_winnt:notice] [pid 5044:tid 920] AH00418: Parent: Created child process 8784
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:20:43.648662 2020] [mpm_winnt:notice] [pid 8784:tid 628] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 17 19:25:09.254351 2020] [mpm_winnt:notice] [pid 5044:tid 920] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 17 19:25:11.276174 2020] [mpm_winnt:notice] [pid 8784:tid 628] AH00364: Child: All worker threads have exited.
+[Mon Aug 17 19:25:11.296312 2020] [mpm_winnt:notice] [pid 5044:tid 920] AH00430: Parent: Child process 8784 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:25:35.057511 2020] [mpm_winnt:notice] [pid 4948:tid 916] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 17 19:25:35.057511 2020] [mpm_winnt:notice] [pid 4948:tid 916] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 17 19:25:35.057511 2020] [core:notice] [pid 4948:tid 916] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 17 19:25:35.393724 2020] [mpm_winnt:notice] [pid 4948:tid 916] AH00418: Parent: Created child process 7584
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:25:39.608558 2020] [mpm_winnt:notice] [pid 7584:tid 628] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 17 19:31:35.872395 2020] [mpm_winnt:notice] [pid 4948:tid 916] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 17 19:31:37.901852 2020] [mpm_winnt:notice] [pid 7584:tid 628] AH00364: Child: All worker threads have exited.
+[Mon Aug 17 19:31:37.917557 2020] [mpm_winnt:notice] [pid 4948:tid 916] AH00430: Parent: Child process 7584 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:35:30.098422 2020] [mpm_winnt:notice] [pid 4952:tid 924] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 17 19:35:30.098422 2020] [mpm_winnt:notice] [pid 4952:tid 924] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 17 19:35:30.098422 2020] [core:notice] [pid 4952:tid 924] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 17 19:35:30.172819 2020] [mpm_winnt:notice] [pid 4952:tid 924] AH00418: Parent: Created child process 7740
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 17 19:35:34.820422 2020] [mpm_winnt:notice] [pid 7740:tid 908] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 17 22:51:02.287968 2020] [mpm_winnt:notice] [pid 4952:tid 924] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 17 22:51:04.292433 2020] [mpm_winnt:notice] [pid 7740:tid 908] AH00364: Child: All worker threads have exited.
+[Mon Aug 17 22:51:04.348283 2020] [mpm_winnt:notice] [pid 4952:tid 924] AH00430: Parent: Child process 7740 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 18 09:53:59.536460 2020] [mpm_winnt:notice] [pid 18512:tid 952] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Aug 18 09:53:59.536460 2020] [mpm_winnt:notice] [pid 18512:tid 952] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Aug 18 09:53:59.536460 2020] [core:notice] [pid 18512:tid 952] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Aug 18 09:53:59.546434 2020] [mpm_winnt:notice] [pid 18512:tid 952] AH00418: Parent: Created child process 16496
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 18 09:54:01.622240 2020] [mpm_winnt:notice] [pid 16496:tid 912] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 18 13:56:19.499740 2020] [mpm_winnt:notice] [pid 18512:tid 952] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 18 13:56:21.531020 2020] [mpm_winnt:notice] [pid 16496:tid 912] AH00364: Child: All worker threads have exited.
+[Tue Aug 18 13:56:21.577712 2020] [mpm_winnt:notice] [pid 18512:tid 952] AH00430: Parent: Child process 16496 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 18 13:56:48.705937 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Aug 18 13:56:48.706190 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Aug 18 13:56:48.706190 2020] [core:notice] [pid 4924:tid 1000] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Aug 18 13:56:48.724032 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00418: Parent: Created child process 7612
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 18 13:56:51.115035 2020] [mpm_winnt:notice] [pid 7612:tid 908] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 4924:tid 1000] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 19 10:17:38.574676 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Aug 19 10:17:38.575473 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Aug 19 10:17:38.575473 2020] [core:notice] [pid 4924:tid 1000] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Aug 19 10:17:38.611553 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00418: Parent: Created child process 18936
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 19 10:17:39.887619 2020] [mpm_winnt:notice] [pid 18936:tid 944] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 19 10:17:40.435415 2020] [mpm_winnt:notice] [pid 7612:tid 908] AH00364: Child: All worker threads have exited.
+[Wed Aug 19 10:17:59.540546 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 19 10:18:01.543001 2020] [mpm_winnt:notice] [pid 18936:tid 944] AH00364: Child: All worker threads have exited.
+[Wed Aug 19 10:18:01.570969 2020] [mpm_winnt:notice] [pid 4924:tid 1000] AH00430: Parent: Child process 18936 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 19 10:18:03.529224 2020] [mpm_winnt:notice] [pid 5672:tid 916] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Aug 19 10:18:03.529224 2020] [mpm_winnt:notice] [pid 5672:tid 916] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Aug 19 10:18:03.529224 2020] [core:notice] [pid 5672:tid 916] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Aug 19 10:18:03.543378 2020] [mpm_winnt:notice] [pid 5672:tid 916] AH00418: Parent: Created child process 10492
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 19 10:18:04.886385 2020] [mpm_winnt:notice] [pid 10492:tid 932] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 09:32:01.924104 2020] [core:warn] [pid 5412:tid 932] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 21 09:32:01.949420 2020] [mpm_winnt:notice] [pid 5412:tid 932] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 21 09:32:01.949420 2020] [mpm_winnt:notice] [pid 5412:tid 932] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Aug 21 09:32:01.949420 2020] [core:notice] [pid 5412:tid 932] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Aug 21 09:32:02.049352 2020] [mpm_winnt:notice] [pid 5412:tid 932] AH00418: Parent: Created child process 8368
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 09:32:04.352538 2020] [mpm_winnt:notice] [pid 8368:tid 900] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 12:20:42.578993 2020] [core:warn] [pid 4844:tid 788] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 21 12:20:42.589503 2020] [mpm_winnt:notice] [pid 4844:tid 788] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 21 12:20:42.589503 2020] [mpm_winnt:notice] [pid 4844:tid 788] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Aug 21 12:20:42.589503 2020] [core:notice] [pid 4844:tid 788] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Aug 21 12:20:42.664759 2020] [mpm_winnt:notice] [pid 4844:tid 788] AH00418: Parent: Created child process 8128
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 12:20:47.709961 2020] [mpm_winnt:notice] [pid 8128:tid 708] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 12:22:31.149838 2020] [core:warn] [pid 4808:tid 812] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 21 12:22:31.150837 2020] [mpm_winnt:notice] [pid 4808:tid 812] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 21 12:22:31.150837 2020] [mpm_winnt:notice] [pid 4808:tid 812] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Aug 21 12:22:31.150837 2020] [core:notice] [pid 4808:tid 812] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Aug 21 12:22:31.172506 2020] [mpm_winnt:notice] [pid 4808:tid 812] AH00418: Parent: Created child process 7340
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 12:22:39.982277 2020] [mpm_winnt:notice] [pid 7340:tid 952] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 16:35:11.027880 2020] [core:warn] [pid 4212:tid 908] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 21 16:35:11.032865 2020] [mpm_winnt:notice] [pid 4212:tid 908] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Aug 21 16:35:11.032865 2020] [mpm_winnt:notice] [pid 4212:tid 908] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Aug 21 16:35:11.032865 2020] [core:notice] [pid 4212:tid 908] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Aug 21 16:35:11.139330 2020] [mpm_winnt:notice] [pid 4212:tid 908] AH00418: Parent: Created child process 7444
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 21 16:35:20.638087 2020] [mpm_winnt:notice] [pid 7444:tid 912] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 24 11:03:41.851121 2020] [mpm_winnt:notice] [pid 4212:tid 908] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 24 11:03:43.855397 2020] [mpm_winnt:notice] [pid 7444:tid 912] AH00364: Child: All worker threads have exited.
+[Mon Aug 24 11:03:43.924620 2020] [mpm_winnt:notice] [pid 4212:tid 908] AH00430: Parent: Child process 7444 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 24 11:04:10.250858 2020] [mpm_winnt:notice] [pid 5828:tid 940] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 24 11:04:10.252047 2020] [mpm_winnt:notice] [pid 5828:tid 940] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 24 11:04:10.252047 2020] [core:notice] [pid 5828:tid 940] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 24 11:04:10.271848 2020] [mpm_winnt:notice] [pid 5828:tid 940] AH00418: Parent: Created child process 8188
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 24 11:04:13.370808 2020] [mpm_winnt:notice] [pid 8188:tid 756] AH00354: Child: Starting 64 worker threads.
+[Mon Aug 24 12:40:39.709089 2020] [mpm_winnt:notice] [pid 5828:tid 940] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 24 12:40:41.713603 2020] [mpm_winnt:notice] [pid 8188:tid 756] AH00364: Child: All worker threads have exited.
+[Mon Aug 24 12:40:41.756796 2020] [mpm_winnt:notice] [pid 5828:tid 940] AH00430: Parent: Child process 8188 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 24 12:41:04.300784 2020] [mpm_winnt:notice] [pid 4940:tid 936] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Aug 24 12:41:04.300784 2020] [mpm_winnt:notice] [pid 4940:tid 936] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Aug 24 12:41:04.300784 2020] [core:notice] [pid 4940:tid 936] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Aug 24 12:41:04.320408 2020] [mpm_winnt:notice] [pid 4940:tid 936] AH00418: Parent: Created child process 7620
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 24 12:41:06.679170 2020] [mpm_winnt:notice] [pid 7620:tid 900] AH00354: Child: Starting 64 worker threads.
+[Fri Sep 04 00:20:08.510188 2020] [mpm_winnt:notice] [pid 4940:tid 936] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 04 00:20:10.572631 2020] [mpm_winnt:notice] [pid 7620:tid 900] AH00364: Child: All worker threads have exited.
+[Fri Sep 04 00:20:10.665823 2020] [mpm_winnt:notice] [pid 4940:tid 936] AH00430: Parent: Child process 7620 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 04 00:20:40.913739 2020] [mpm_winnt:notice] [pid 5820:tid 652] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Sep 04 00:20:40.913739 2020] [mpm_winnt:notice] [pid 5820:tid 652] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Sep 04 00:20:40.913739 2020] [core:notice] [pid 5820:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Sep 04 00:20:40.925892 2020] [mpm_winnt:notice] [pid 5820:tid 652] AH00418: Parent: Created child process 7580
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 04 00:20:42.794328 2020] [mpm_winnt:notice] [pid 7580:tid 604] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 10 15:22:50.885915 2020] [mpm_winnt:notice] [pid 5820:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 10 15:22:52.918618 2020] [mpm_winnt:notice] [pid 7580:tid 604] AH00364: Child: All worker threads have exited.
+[Thu Sep 10 15:22:52.996126 2020] [mpm_winnt:notice] [pid 5820:tid 652] AH00430: Parent: Child process 7580 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 10 15:23:26.444794 2020] [mpm_winnt:notice] [pid 4836:tid 940] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Sep 10 15:23:26.444794 2020] [mpm_winnt:notice] [pid 4836:tid 940] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Sep 10 15:23:26.444794 2020] [core:notice] [pid 4836:tid 940] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Sep 10 15:23:26.486032 2020] [mpm_winnt:notice] [pid 4836:tid 940] AH00418: Parent: Created child process 7876
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 10 15:23:30.562031 2020] [mpm_winnt:notice] [pid 7876:tid 900] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 15 09:09:30.261424 2020] [core:warn] [pid 5108:tid 928] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 15 09:09:30.275925 2020] [mpm_winnt:notice] [pid 5108:tid 928] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Sep 15 09:09:30.275925 2020] [mpm_winnt:notice] [pid 5108:tid 928] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Sep 15 09:09:30.275925 2020] [core:notice] [pid 5108:tid 928] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Sep 15 09:09:30.296310 2020] [mpm_winnt:notice] [pid 5108:tid 928] AH00418: Parent: Created child process 7904
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 15 09:09:32.048401 2020] [mpm_winnt:notice] [pid 7904:tid 948] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 15 18:45:48.243480 2020] [core:warn] [pid 4836:tid 724] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 15 18:45:48.246472 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Sep 15 18:45:48.246472 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Sep 15 18:45:48.246472 2020] [core:notice] [pid 4836:tid 724] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Sep 15 18:45:48.264549 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00418: Parent: Created child process 7508
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 15 18:45:50.891866 2020] [mpm_winnt:notice] [pid 7508:tid 908] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 4836:tid 724] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 10:40:45.051741 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Sep 18 10:40:45.051741 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Sep 18 10:40:45.051741 2020] [core:notice] [pid 4836:tid 724] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Sep 18 10:40:45.074674 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00418: Parent: Created child process 21344
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 10:40:47.183635 2020] [mpm_winnt:notice] [pid 21344:tid 880] AH00354: Child: Starting 64 worker threads.
+[Fri Sep 18 10:40:56.847408 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 18 10:40:58.848281 2020] [mpm_winnt:notice] [pid 21344:tid 880] AH00364: Child: All worker threads have exited.
+[Fri Sep 18 10:40:58.864450 2020] [mpm_winnt:notice] [pid 4836:tid 724] AH00430: Parent: Child process 21344 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 10:41:01.523710 2020] [mpm_winnt:notice] [pid 20104:tid 956] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Sep 18 10:41:01.523710 2020] [mpm_winnt:notice] [pid 20104:tid 956] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Sep 18 10:41:01.523710 2020] [core:notice] [pid 20104:tid 956] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Sep 18 10:41:01.534679 2020] [mpm_winnt:notice] [pid 20104:tid 956] AH00418: Parent: Created child process 23124
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 10:41:03.810901 2020] [mpm_winnt:notice] [pid 23124:tid 912] AH00354: Child: Starting 64 worker threads.
+[Fri Sep 18 11:54:37.267715 2020] [mpm_winnt:notice] [pid 20104:tid 956] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 18 11:54:39.269862 2020] [mpm_winnt:notice] [pid 23124:tid 912] AH00364: Child: All worker threads have exited.
+[Fri Sep 18 11:54:39.332551 2020] [mpm_winnt:notice] [pid 20104:tid 956] AH00430: Parent: Child process 23124 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::212e:4029:8d49:c34a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 11:54:41.583290 2020] [mpm_winnt:notice] [pid 11248:tid 936] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Sep 18 11:54:41.583290 2020] [mpm_winnt:notice] [pid 11248:tid 936] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Sep 18 11:54:41.583290 2020] [core:notice] [pid 11248:tid 936] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Sep 18 11:54:41.591267 2020] [mpm_winnt:notice] [pid 11248:tid 936] AH00418: Parent: Created child process 21132
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::212e:4029:8d49:c34a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::212e:4029:8d49:c34a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 11:54:42.019178 2020] [mpm_winnt:notice] [pid 21132:tid 632] AH00354: Child: Starting 64 worker threads.
+[Fri Sep 18 12:53:57.349526 2020] [mpm_winnt:notice] [pid 11248:tid 936] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 18 12:53:59.352419 2020] [mpm_winnt:notice] [pid 21132:tid 632] AH00364: Child: All worker threads have exited.
+[Fri Sep 18 12:53:59.394769 2020] [mpm_winnt:notice] [pid 11248:tid 936] AH00430: Parent: Child process 21132 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::212e:4029:8d49:c34a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 12:54:00.325347 2020] [mpm_winnt:notice] [pid 24364:tid 984] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Sep 18 12:54:00.325347 2020] [mpm_winnt:notice] [pid 24364:tid 984] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Sep 18 12:54:00.325347 2020] [core:notice] [pid 24364:tid 984] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Sep 18 12:54:00.333306 2020] [mpm_winnt:notice] [pid 24364:tid 984] AH00418: Parent: Created child process 21292
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::212e:4029:8d49:c34a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::212e:4029:8d49:c34a. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 18 12:54:00.764155 2020] [mpm_winnt:notice] [pid 21292:tid 880] AH00354: Child: Starting 64 worker threads.
+[Sat Sep 19 18:23:16.050711 2020] [mpm_winnt:notice] [pid 24364:tid 984] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Sep 19 18:23:18.052915 2020] [mpm_winnt:notice] [pid 21292:tid 880] AH00364: Child: All worker threads have exited.
+[Sat Sep 19 18:23:18.108928 2020] [mpm_winnt:notice] [pid 24364:tid 984] AH00430: Parent: Child process 21292 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Sat Sep 19 18:23:22.445181 2020] [mpm_winnt:notice] [pid 536:tid 952] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sat Sep 19 18:23:22.446176 2020] [mpm_winnt:notice] [pid 536:tid 952] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sat Sep 19 18:23:22.446176 2020] [core:notice] [pid 536:tid 952] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Sep 19 18:23:22.468202 2020] [mpm_winnt:notice] [pid 536:tid 952] AH00418: Parent: Created child process 9780
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Sat Sep 19 18:23:25.453135 2020] [mpm_winnt:notice] [pid 9780:tid 900] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 24 13:07:51.061671 2020] [core:warn] [pid 4700:tid 920] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Sep 24 13:07:51.062669 2020] [mpm_winnt:notice] [pid 4700:tid 920] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Sep 24 13:07:51.062669 2020] [mpm_winnt:notice] [pid 4700:tid 920] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Sep 24 13:07:51.062669 2020] [core:notice] [pid 4700:tid 920] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Sep 24 13:07:51.081333 2020] [mpm_winnt:notice] [pid 4700:tid 920] AH00418: Parent: Created child process 6016
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 24 13:07:53.273396 2020] [mpm_winnt:notice] [pid 6016:tid 888] AH00354: Child: Starting 64 worker threads.
+[Thu Sep 24 13:08:10.724421 2020] [mpm_winnt:notice] [pid 4700:tid 920] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 24 13:08:12.745451 2020] [mpm_winnt:notice] [pid 6016:tid 888] AH00364: Child: All worker threads have exited.
+[Thu Sep 24 13:08:12.763964 2020] [mpm_winnt:notice] [pid 4700:tid 920] AH00430: Parent: Child process 6016 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 24 13:08:39.124772 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Sep 24 13:08:39.124772 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Sep 24 13:08:39.124772 2020] [core:notice] [pid 4656:tid 952] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Sep 24 13:08:39.143327 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00418: Parent: Created child process 7332
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::955b:4941:bea3:778a. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 24 13:08:43.402262 2020] [mpm_winnt:notice] [pid 7332:tid 908] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 4656:tid 952] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9d52:465e:443e:8012. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 05 13:57:57.415535 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Oct 05 13:57:57.415535 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Oct 05 13:57:57.415535 2020] [core:notice] [pid 4656:tid 952] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Oct 05 13:57:57.428503 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00418: Parent: Created child process 13456
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9d52:465e:443e:8012. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9d52:465e:443e:8012. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 05 13:57:58.330939 2020] [mpm_winnt:notice] [pid 13456:tid 908] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 05 13:57:59.334180 2020] [mpm_winnt:notice] [pid 7332:tid 908] AH00364: Child: All worker threads have exited.
+[Mon Oct 05 13:58:07.486664 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 05 13:58:09.488889 2020] [mpm_winnt:notice] [pid 13456:tid 908] AH00364: Child: All worker threads have exited.
+[Mon Oct 05 13:58:09.513818 2020] [mpm_winnt:notice] [pid 4656:tid 952] AH00430: Parent: Child process 13456 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9d52:465e:443e:8012. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 05 13:58:11.843962 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Oct 05 13:58:11.843962 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Oct 05 13:58:11.843962 2020] [core:notice] [pid 1536:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Oct 05 13:58:11.852938 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00418: Parent: Created child process 16792
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9d52:465e:443e:8012. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::9d52:465e:443e:8012. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 05 13:58:12.378534 2020] [mpm_winnt:notice] [pid 16792:tid 884] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 1536:tid 720] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8448:43aa:5c7d:4b81. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 08 11:32:55.171320 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Oct 08 11:32:55.171320 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Oct 08 11:32:55.171320 2020] [core:notice] [pid 1536:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Oct 08 11:32:55.191640 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00418: Parent: Created child process 2944
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8448:43aa:5c7d:4b81. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8448:43aa:5c7d:4b81. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 08 11:32:56.121189 2020] [mpm_winnt:notice] [pid 2944:tid 900] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 08 11:32:57.125875 2020] [mpm_winnt:notice] [pid 16792:tid 884] AH00364: Child: All worker threads have exited.
+[Thu Oct 08 11:33:05.861756 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 08 11:33:07.863051 2020] [mpm_winnt:notice] [pid 2944:tid 900] AH00364: Child: All worker threads have exited.
+[Thu Oct 08 11:33:07.957296 2020] [mpm_winnt:notice] [pid 1536:tid 720] AH00430: Parent: Child process 2944 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8448:43aa:5c7d:4b81. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 08 11:33:10.371491 2020] [mpm_winnt:notice] [pid 19644:tid 948] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Oct 08 11:33:10.371491 2020] [mpm_winnt:notice] [pid 19644:tid 948] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Oct 08 11:33:10.371491 2020] [core:notice] [pid 19644:tid 948] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Oct 08 11:33:10.379469 2020] [mpm_winnt:notice] [pid 19644:tid 948] AH00418: Parent: Created child process 22720
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8448:43aa:5c7d:4b81. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::8448:43aa:5c7d:4b81. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 08 11:33:10.809347 2020] [mpm_winnt:notice] [pid 22720:tid 892] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 08 15:31:46.865935 2020] [core:error] [pid 22720:tid 1396] (20024)The given path is misformatted or contained invalid characters: [client ::1:61920] AH00127: Cannot map GET /nik_server:1560/hs/PushService/SendPush?login=silk.prok@yandex.ru HTTP/1.1 to file
+[Thu Oct 08 15:31:49.026678 2020] [core:error] [pid 22720:tid 1396] (20024)The given path is misformatted or contained invalid characters: [client ::1:61920] AH00127: Cannot map GET /nik_server:1560/hs/PushService/SendPush?login=silk.prok@yandex.ru HTTP/1.1 to file
+Starting the 'Apache2.4' service
+(OS 5)Отказано в доступе.  : AH10012: Failed to open the 'Apache2.4' service
+Starting the 'Apache2.4' service
+(OS 5)Отказано в доступе.  : AH10012: Failed to open the 'Apache2.4' service
+[Tue Oct 20 15:32:55.253235 2020] [core:warn] [pid 17256:tid 720] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 20 15:32:55.255231 2020] [mpm_winnt:notice] [pid 17256:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Oct 20 15:32:55.256227 2020] [mpm_winnt:notice] [pid 17256:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Oct 20 15:32:55.256227 2020] [core:notice] [pid 17256:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Oct 20 15:32:55.258222 2020] [mpm_winnt:notice] [pid 17256:tid 720] AH00418: Parent: Created child process 5684
+[Tue Oct 20 15:32:55.641198 2020] [mpm_winnt:notice] [pid 5684:tid 648] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 23 12:42:32.447603 2020] [mpm_winnt:notice] [pid 17256:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 23 12:42:34.480531 2020] [mpm_winnt:notice] [pid 5684:tid 648] AH00364: Child: All worker threads have exited.
+[Fri Oct 23 12:42:34.542447 2020] [mpm_winnt:notice] [pid 17256:tid 720] AH00430: Parent: Child process 5684 exited successfully.
+[Fri Oct 23 12:43:04.706128 2020] [mpm_winnt:notice] [pid 5676:tid 800] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Oct 23 12:43:04.708122 2020] [mpm_winnt:notice] [pid 5676:tid 800] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Oct 23 12:43:04.708122 2020] [core:notice] [pid 5676:tid 800] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Oct 23 12:43:04.708122 2020] [mpm_winnt:notice] [pid 5676:tid 800] AH00418: Parent: Created child process 7308
+[Fri Oct 23 12:43:07.572045 2020] [mpm_winnt:notice] [pid 7308:tid 748] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 23 12:51:30.365090 2020] [mpm_winnt:notice] [pid 5676:tid 800] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 23 12:51:32.387176 2020] [mpm_winnt:notice] [pid 7308:tid 748] AH00364: Child: All worker threads have exited.
+[Fri Oct 23 12:51:32.402398 2020] [mpm_winnt:notice] [pid 5676:tid 800] AH00430: Parent: Child process 7308 exited successfully.
+[Fri Oct 23 12:52:03.442053 2020] [mpm_winnt:notice] [pid 5836:tid 724] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Oct 23 12:52:03.444699 2020] [mpm_winnt:notice] [pid 5836:tid 724] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Oct 23 12:52:03.444699 2020] [core:notice] [pid 5836:tid 724] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Oct 23 12:52:03.449544 2020] [mpm_winnt:notice] [pid 5836:tid 724] AH00418: Parent: Created child process 7948
+[Fri Oct 23 12:52:05.872775 2020] [mpm_winnt:notice] [pid 7948:tid 684] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 23 13:12:11.524296 2020] [mpm_winnt:notice] [pid 5836:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 23 13:12:13.540149 2020] [mpm_winnt:notice] [pid 7948:tid 684] AH00364: Child: All worker threads have exited.
+[Fri Oct 23 13:12:13.555734 2020] [mpm_winnt:notice] [pid 5836:tid 724] AH00430: Parent: Child process 7948 exited successfully.
+[Fri Oct 23 13:12:49.025449 2020] [mpm_winnt:notice] [pid 6048:tid 776] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Oct 23 13:12:49.026968 2020] [mpm_winnt:notice] [pid 6048:tid 776] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Oct 23 13:12:49.026968 2020] [core:notice] [pid 6048:tid 776] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Oct 23 13:12:49.033148 2020] [mpm_winnt:notice] [pid 6048:tid 776] AH00418: Parent: Created child process 8124
+[Fri Oct 23 13:12:51.639172 2020] [mpm_winnt:notice] [pid 8124:tid 656] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 05 17:14:32.227575 2020] [mpm_winnt:notice] [pid 6048:tid 776] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 05 17:14:34.245392 2020] [mpm_winnt:notice] [pid 8124:tid 656] AH00364: Child: All worker threads have exited.
+[Thu Nov 05 17:14:34.291698 2020] [mpm_winnt:notice] [pid 6048:tid 776] AH00430: Parent: Child process 8124 exited successfully.
+[Thu Nov 05 17:15:07.277749 2020] [mpm_winnt:notice] [pid 3692:tid 752] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Nov 05 17:15:07.277749 2020] [mpm_winnt:notice] [pid 3692:tid 752] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Nov 05 17:15:07.277749 2020] [core:notice] [pid 3692:tid 752] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Nov 05 17:15:07.650992 2020] [mpm_winnt:notice] [pid 3692:tid 752] AH00418: Parent: Created child process 7632
+[Thu Nov 05 17:15:09.806848 2020] [mpm_winnt:notice] [pid 7632:tid 660] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 10 13:19:47.999005 2020] [core:warn] [pid 5404:tid 736] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 10 13:19:48.006440 2020] [mpm_winnt:notice] [pid 5404:tid 736] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Nov 10 13:19:48.006440 2020] [mpm_winnt:notice] [pid 5404:tid 736] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Nov 10 13:19:48.006440 2020] [core:notice] [pid 5404:tid 736] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Nov 10 13:19:48.011461 2020] [mpm_winnt:notice] [pid 5404:tid 736] AH00418: Parent: Created child process 7936
+[Tue Nov 10 13:19:51.758197 2020] [mpm_winnt:notice] [pid 7936:tid 768] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 11 22:42:58.468735 2020] [mpm_winnt:notice] [pid 5404:tid 736] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 11 22:43:00.489620 2020] [mpm_winnt:notice] [pid 7936:tid 768] AH00364: Child: All worker threads have exited.
+[Wed Nov 11 22:43:00.536002 2020] [mpm_winnt:notice] [pid 5404:tid 736] AH00430: Parent: Child process 7936 exited successfully.
+[Wed Nov 11 22:43:27.022201 2020] [mpm_winnt:notice] [pid 5700:tid 684] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Nov 11 22:43:27.022201 2020] [mpm_winnt:notice] [pid 5700:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Nov 11 22:43:27.022201 2020] [core:notice] [pid 5700:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Nov 11 22:43:27.030286 2020] [mpm_winnt:notice] [pid 5700:tid 684] AH00418: Parent: Created child process 7924
+[Wed Nov 11 22:43:28.737533 2020] [mpm_winnt:notice] [pid 7924:tid 640] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 11 22:44:01.230510 2020] [mpm_winnt:notice] [pid 5700:tid 684] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 11 22:44:03.252554 2020] [mpm_winnt:notice] [pid 7924:tid 640] AH00364: Child: All worker threads have exited.
+[Wed Nov 11 22:44:03.272398 2020] [mpm_winnt:notice] [pid 5700:tid 684] AH00430: Parent: Child process 7924 exited successfully.
+[Wed Nov 11 22:44:27.858925 2020] [mpm_winnt:notice] [pid 5684:tid 700] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Nov 11 22:44:27.858925 2020] [mpm_winnt:notice] [pid 5684:tid 700] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Nov 11 22:44:27.858925 2020] [core:notice] [pid 5684:tid 700] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Nov 11 22:44:27.872357 2020] [mpm_winnt:notice] [pid 5684:tid 700] AH00418: Parent: Created child process 7892
+[Wed Nov 11 22:44:29.692676 2020] [mpm_winnt:notice] [pid 7892:tid 624] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 11 22:48:39.383755 2020] [mpm_winnt:notice] [pid 5684:tid 700] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 11 22:48:41.415045 2020] [mpm_winnt:notice] [pid 7892:tid 624] AH00364: Child: All worker threads have exited.
+[Wed Nov 11 22:48:41.430703 2020] [mpm_winnt:notice] [pid 5684:tid 700] AH00430: Parent: Child process 7892 exited successfully.
+[Wed Nov 11 22:49:09.751575 2020] [mpm_winnt:notice] [pid 5672:tid 748] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Nov 11 22:49:09.753618 2020] [mpm_winnt:notice] [pid 5672:tid 748] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Nov 11 22:49:09.753618 2020] [core:notice] [pid 5672:tid 748] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Nov 11 22:49:09.753618 2020] [mpm_winnt:notice] [pid 5672:tid 748] AH00418: Parent: Created child process 8180
+[Wed Nov 11 22:49:12.607206 2020] [mpm_winnt:notice] [pid 8180:tid 808] AH00354: Child: Starting 64 worker threads.
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Nov 18 21:06:56.787412 2020] [mpm_winnt:notice] [pid 5672:tid 748] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 18 21:06:58.797124 2020] [mpm_winnt:notice] [pid 8180:tid 808] AH00364: Child: All worker threads have exited.
+[Wed Nov 18 21:06:58.872791 2020] [mpm_winnt:notice] [pid 5672:tid 748] AH00430: Parent: Child process 8180 exited successfully.
+[Wed Nov 18 21:07:30.623691 2020] [mpm_winnt:notice] [pid 5932:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Nov 18 21:07:30.624688 2020] [mpm_winnt:notice] [pid 5932:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Nov 18 21:07:30.624688 2020] [core:notice] [pid 5932:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Nov 18 21:07:30.650847 2020] [mpm_winnt:notice] [pid 5932:tid 720] AH00418: Parent: Created child process 8268
+[Wed Nov 18 21:07:33.875164 2020] [mpm_winnt:notice] [pid 8268:tid 760] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 12:01:23.981018 2020] [mpm_winnt:notice] [pid 5932:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 12:01:25.986284 2020] [mpm_winnt:notice] [pid 8268:tid 760] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 12:01:26.041136 2020] [mpm_winnt:notice] [pid 5932:tid 720] AH00430: Parent: Child process 8268 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 6312:tid 776] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Nov 23 14:14:48.246911 2020] [mpm_winnt:notice] [pid 6312:tid 776] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Nov 23 14:14:48.246911 2020] [core:notice] [pid 6312:tid 776] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Nov 23 14:14:48.255887 2020] [mpm_winnt:notice] [pid 6312:tid 776] AH00418: Parent: Created child process 20964
+[Mon Nov 23 14:14:48.859317 2020] [mpm_winnt:notice] [pid 20964:tid 696] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 14:23:57.019367 2020] [mpm_winnt:notice] [pid 6312:tid 776] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 14:23:59.021467 2020] [mpm_winnt:notice] [pid 20964:tid 696] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 14:23:59.041415 2020] [mpm_winnt:notice] [pid 6312:tid 776] AH00430: Parent: Child process 20964 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 19928:tid 704] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Nov 23 14:31:41.203499 2020] [mpm_winnt:notice] [pid 19928:tid 704] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Nov 23 14:31:41.203499 2020] [core:notice] [pid 19928:tid 704] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Nov 23 14:31:41.205493 2020] [mpm_winnt:notice] [pid 19928:tid 704] AH00418: Parent: Created child process 13072
+[Mon Nov 23 14:31:41.707662 2020] [mpm_winnt:notice] [pid 13072:tid 640] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 14:33:15.916514 2020] [mpm_winnt:notice] [pid 19928:tid 704] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 14:33:17.918365 2020] [mpm_winnt:notice] [pid 13072:tid 640] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 14:33:17.932935 2020] [mpm_winnt:notice] [pid 19928:tid 704] AH00430: Parent: Child process 13072 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 7756:tid 748] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Nov 23 14:33:24.066283 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Nov 23 14:33:24.066283 2020] [core:notice] [pid 7756:tid 748] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Nov 23 14:33:24.069277 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00418: Parent: Created child process 20172
+[Mon Nov 23 14:33:24.651229 2020] [mpm_winnt:notice] [pid 20172:tid 644] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 7756:tid 748] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Nov 23 14:46:31.958704 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Nov 23 14:46:31.958704 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Nov 23 14:46:31.958704 2020] [core:notice] [pid 7756:tid 748] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Nov 23 14:46:31.961697 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00418: Parent: Created child process 19652
+[Mon Nov 23 14:46:32.939485 2020] [mpm_winnt:notice] [pid 19652:tid 696] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 14:46:33.940183 2020] [mpm_winnt:notice] [pid 20172:tid 644] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 15:01:46.133096 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 15:01:48.134536 2020] [mpm_winnt:notice] [pid 19652:tid 696] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 15:01:48.151493 2020] [mpm_winnt:notice] [pid 7756:tid 748] AH00430: Parent: Child process 19652 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 19324:tid 656] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 12:55:51.986958 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 12:55:51.986958 2023] [core:notice] [pid 19324:tid 656] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 12:55:51.987956 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00418: Parent: Created child process 25516
+[Sun Jan 29 12:55:52.291192 2023] [mpm_winnt:notice] [pid 25516:tid 576] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 19324:tid 656] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sun Jan 29 13:03:02.255259 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 13:03:02.255259 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 13:03:02.255259 2023] [core:notice] [pid 19324:tid 656] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 13:03:02.256257 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00418: Parent: Created child process 16052
+[Sun Jan 29 13:03:03.237380 2023] [mpm_winnt:notice] [pid 16052:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 13:03:04.244054 2023] [mpm_winnt:notice] [pid 25516:tid 576] AH00364: Child: All worker threads have exited.
+(OS 5)Отказано в доступе.  : AH10014: Failed to open the 'Apache2.4' service
+[Sun Jan 29 13:20:19.943326 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 13:20:21.969623 2023] [mpm_winnt:notice] [pid 16052:tid 636] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 13:20:22.221172 2023] [mpm_winnt:notice] [pid 19324:tid 656] AH00430: Parent: Child process 16052 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 1056:tid 688] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 13:20:23.542499 2023] [mpm_winnt:notice] [pid 1056:tid 688] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 13:20:23.542499 2023] [core:notice] [pid 1056:tid 688] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 13:20:23.543525 2023] [mpm_winnt:notice] [pid 1056:tid 688] AH00418: Parent: Created child process 5876
+[Sun Jan 29 13:20:23.849215 2023] [mpm_winnt:notice] [pid 5876:tid 644] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 13:24:49.796189 2023] [mpm_winnt:notice] [pid 1056:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 13:24:51.826106 2023] [mpm_winnt:notice] [pid 5876:tid 644] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 13:24:52.031478 2023] [mpm_winnt:notice] [pid 1056:tid 688] AH00430: Parent: Child process 5876 exited successfully.
+<<<<<<< HEAD
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 24144:tid 712] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 14:52:12.126208 2023] [mpm_winnt:notice] [pid 24144:tid 712] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 14:52:12.126208 2023] [core:notice] [pid 24144:tid 712] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 14:52:12.127206 2023] [mpm_winnt:notice] [pid 24144:tid 712] AH00418: Parent: Created child process 24908
+[Sun Jan 29 14:52:12.430800 2023] [mpm_winnt:notice] [pid 24908:tid 656] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 15:10:51.386618 2023] [mpm_winnt:notice] [pid 24144:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 15:10:53.403034 2023] [mpm_winnt:notice] [pid 24908:tid 656] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 15:10:53.746846 2023] [mpm_winnt:notice] [pid 24144:tid 712] AH00430: Parent: Child process 24908 exited successfully.
+=======
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 13940:tid 776] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 14:07:34.080048 2023] [mpm_winnt:notice] [pid 13940:tid 776] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 14:07:34.080048 2023] [core:notice] [pid 13940:tid 776] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 14:07:34.089079 2023] [mpm_winnt:notice] [pid 13940:tid 776] AH00418: Parent: Created child process 6412
+[Sun Jan 29 14:07:34.555133 2023] [mpm_winnt:notice] [pid 6412:tid 572] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 14:46:19.306812 2023] [mpm_winnt:crit] [pid 6412:tid 572] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Jan 29 14:46:19.306812 2023] [mpm_winnt:warn] [pid 6412:tid 716] (OS 995)Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sun Jan 29 14:46:19.306812 2023] [mpm_winnt:warn] [pid 6412:tid 720] (OS 995)Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ore:warn] [pid 8960:tid 660] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 29 14:47:00.121929 2023] [mpm_winnt:notice] [pid 8960:tid 660] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 14:47:00.121929 2023] [mpm_winnt:notice] [pid 8960:tid 660] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 14:47:00.121929 2023] [core:notice] [pid 8960:tid 660] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 14:47:00.124939 2023] [mpm_winnt:notice] [pid 8960:tid 660] AH00418: Parent: Created child process 504
+[Sun Jan 29 14:47:00.677780 2023] [mpm_winnt:notice] [pid 504:tid 556] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 14:55:07.139060 2023] [mpm_winnt:notice] [pid 8960:tid 660] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 14:55:09.153745 2023] [mpm_winnt:notice] [pid 504:tid 556] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 14:55:09.347889 2023] [mpm_winnt:notice] [pid 8960:tid 660] AH00430: Parent: Child process 504 exited successfully.
+<<<<<<< Updated upstream
+>>>>>>> d5a877b03b79aab538062bd4903b4ec142b53091
+=======
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 3204:tid 600] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 15:25:09.230594 2023] [mpm_winnt:notice] [pid 3204:tid 600] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 15:25:09.230594 2023] [core:notice] [pid 3204:tid 600] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 15:25:09.234608 2023] [mpm_winnt:notice] [pid 3204:tid 600] AH00418: Parent: Created child process 13456
+[Sun Jan 29 15:25:09.797479 2023] [mpm_winnt:notice] [pid 13456:tid 700] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 15:30:58.769964 2023] [mpm_winnt:notice] [pid 3204:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 15:31:00.792172 2023] [mpm_winnt:notice] [pid 13456:tid 700] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 15:31:00.938662 2023] [mpm_winnt:notice] [pid 3204:tid 600] AH00430: Parent: Child process 13456 exited successfully.
+>>>>>>> Stashed changes
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 13596:tid 688] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 16:07:53.680216 2023] [mpm_winnt:notice] [pid 13596:tid 688] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 16:07:53.680216 2023] [core:notice] [pid 13596:tid 688] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 16:07:53.685234 2023] [mpm_winnt:notice] [pid 13596:tid 688] AH00418: Parent: Created child process 11492
+[Sun Jan 29 16:07:54.136229 2023] [mpm_winnt:notice] [pid 11492:tid 668] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 16:20:50.165268 2023] [mpm_winnt:notice] [pid 13596:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 16:20:52.175961 2023] [mpm_winnt:notice] [pid 11492:tid 668] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 16:20:52.387162 2023] [mpm_winnt:notice] [pid 13596:tid 688] AH00430: Parent: Child process 11492 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 14308:tid 588] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 16:21:05.768160 2023] [mpm_winnt:notice] [pid 14308:tid 588] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 16:21:05.768160 2023] [core:notice] [pid 14308:tid 588] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 16:21:05.771170 2023] [mpm_winnt:notice] [pid 14308:tid 588] AH00418: Parent: Created child process 1216
+[Sun Jan 29 16:21:06.222167 2023] [mpm_winnt:notice] [pid 1216:tid 544] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 16:21:43.450529 2023] [mpm_winnt:notice] [pid 14308:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 16:21:47.922384 2023] [mpm_winnt:notice] [pid 1216:tid 544] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 16:21:48.031249 2023] [mpm_winnt:notice] [pid 14308:tid 588] AH00430: Parent: Child process 1216 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 12976:tid 600] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 16:22:16.962183 2023] [mpm_winnt:notice] [pid 12976:tid 600] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 16:22:16.962183 2023] [core:notice] [pid 12976:tid 600] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 16:22:16.965195 2023] [mpm_winnt:notice] [pid 12976:tid 600] AH00418: Parent: Created child process 13972
+[Sun Jan 29 16:22:17.425726 2023] [mpm_winnt:notice] [pid 13972:tid 696] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 16:23:48.654576 2023] [mpm_winnt:notice] [pid 12976:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 16:23:50.670796 2023] [mpm_winnt:notice] [pid 13972:tid 696] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 16:23:50.845880 2023] [mpm_winnt:notice] [pid 12976:tid 600] AH00430: Parent: Child process 13972 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 11868:tid 664] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Jan 29 16:24:45.404131 2023] [mpm_winnt:notice] [pid 11868:tid 664] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Jan 29 16:24:45.404131 2023] [core:notice] [pid 11868:tid 664] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Jan 29 16:24:45.407142 2023] [mpm_winnt:notice] [pid 11868:tid 664] AH00418: Parent: Created child process 10144
+[Sun Jan 29 16:24:45.886232 2023] [mpm_winnt:notice] [pid 10144:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sun Jan 29 16:33:16.499155 2023] [mpm_winnt:notice] [pid 11868:tid 664] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 29 16:33:18.519382 2023] [mpm_winnt:notice] [pid 10144:tid 664] AH00364: Child: All worker threads have exited.
+[Sun Jan 29 16:33:18.680416 2023] [mpm_winnt:notice] [pid 11868:tid 664] AH00430: Parent: Child process 10144 exited successfully.
+[Thu Feb 02 15:42:58.855691 2023] [mpm_winnt:notice] [pid 1648:tid 528] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Feb 02 15:42:58.855691 2023] [mpm_winnt:notice] [pid 1648:tid 528] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Feb 02 15:42:58.855691 2023] [core:notice] [pid 1648:tid 528] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Feb 02 15:42:58.855691 2023] [mpm_winnt:notice] [pid 1648:tid 528] AH00418: Parent: Created child process 4612
+[Thu Feb 02 15:42:59.590124 2023] [mpm_winnt:notice] [pid 4612:tid 644] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 02 20:38:45.177347 2023] [mpm_winnt:crit] [pid 4612:tid 644] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Feb 02 20:38:45.180356 2023] [mpm_winnt:warn] [pid 4612:tid 604] (OS 995)Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Thu Feb 02 20:38:45.180356 2023] [mpm_winnt:warn] [pid 4612:tid 1208] (OS 995)Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Feb 03 17:16:55.004083 2023] [core:warn] [pid 2944:tid 568] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 03 17:16:55.004083 2023] [mpm_winnt:notice] [pid 2944:tid 568] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Feb 03 17:16:55.004083 2023] [mpm_winnt:notice] [pid 2944:tid 568] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Feb 03 17:16:55.004083 2023] [core:notice] [pid 2944:tid 568] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Feb 03 17:16:55.019711 2023] [mpm_winnt:notice] [pid 2944:tid 568] AH00418: Parent: Created child process 4752
+[Fri Feb 03 17:16:55.816644 2023] [mpm_winnt:notice] [pid 4752:tid 688] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 04 10:14:48.509199 2023] [core:warn] [pid 3032:tid 568] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 04 10:14:48.524825 2023] [mpm_winnt:notice] [pid 3032:tid 568] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sat Feb 04 10:14:48.524825 2023] [mpm_winnt:notice] [pid 3032:tid 568] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sat Feb 04 10:14:48.524825 2023] [core:notice] [pid 3032:tid 568] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Feb 04 10:14:48.524825 2023] [mpm_winnt:notice] [pid 3032:tid 568] AH00418: Parent: Created child process 4644
+[Sat Feb 04 10:14:49.321757 2023] [mpm_winnt:notice] [pid 4644:tid 736] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 05 10:34:21.905519 2023] [core:warn] [pid 3084:tid 716] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 05 10:34:21.905519 2023] [mpm_winnt:notice] [pid 3084:tid 716] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Feb 05 10:34:21.905519 2023] [mpm_winnt:notice] [pid 3084:tid 716] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Feb 05 10:34:21.905519 2023] [core:notice] [pid 3084:tid 716] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Feb 05 10:34:21.921146 2023] [mpm_winnt:notice] [pid 3084:tid 716] AH00418: Parent: Created child process 4704
+[Sun Feb 05 10:34:22.811837 2023] [mpm_winnt:notice] [pid 4704:tid 612] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 06 14:30:11.700436 2023] [core:warn] [pid 3032:tid 632] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 06 14:30:11.700436 2023] [mpm_winnt:notice] [pid 3032:tid 632] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Feb 06 14:30:11.700436 2023] [mpm_winnt:notice] [pid 3032:tid 632] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Feb 06 14:30:11.700436 2023] [core:notice] [pid 3032:tid 632] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Feb 06 14:30:11.700436 2023] [mpm_winnt:notice] [pid 3032:tid 632] AH00418: Parent: Created child process 4904
+[Mon Feb 06 14:30:12.497371 2023] [mpm_winnt:notice] [pid 4904:tid 672] AH00354: Child: Starting 64 worker threads.
+[Fri Feb 10 15:19:41.502735 2023] [core:warn] [pid 3120:tid 724] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 10 15:19:41.502735 2023] [mpm_winnt:notice] [pid 3120:tid 724] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Feb 10 15:19:41.502735 2023] [mpm_winnt:notice] [pid 3120:tid 724] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Feb 10 15:19:41.502735 2023] [core:notice] [pid 3120:tid 724] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Feb 10 15:19:41.502735 2023] [mpm_winnt:notice] [pid 3120:tid 724] AH00418: Parent: Created child process 4892
+[Fri Feb 10 15:19:42.284043 2023] [mpm_winnt:notice] [pid 4892:tid 608] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 11 10:19:21.137641 2023] [core:warn] [pid 3092:tid 808] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 11 10:19:21.137641 2023] [mpm_winnt:notice] [pid 3092:tid 808] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sat Feb 11 10:19:21.137641 2023] [mpm_winnt:notice] [pid 3092:tid 808] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sat Feb 11 10:19:21.137641 2023] [core:notice] [pid 3092:tid 808] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Feb 11 10:19:21.137641 2023] [mpm_winnt:notice] [pid 3092:tid 808] AH00418: Parent: Created child process 4772
+[Sat Feb 11 10:19:21.887695 2023] [mpm_winnt:notice] [pid 4772:tid 612] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 13 18:35:36.990756 2023] [core:warn] [pid 2332:tid 704] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 13 18:35:36.990756 2023] [mpm_winnt:notice] [pid 2332:tid 704] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Feb 13 18:35:36.990756 2023] [mpm_winnt:notice] [pid 2332:tid 704] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Feb 13 18:35:36.990756 2023] [core:notice] [pid 2332:tid 704] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Feb 13 18:35:36.990756 2023] [mpm_winnt:notice] [pid 2332:tid 704] AH00418: Parent: Created child process 4704
+[Mon Feb 13 18:35:37.756432 2023] [mpm_winnt:notice] [pid 4704:tid 564] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 14 15:52:56.732792 2023] [core:warn] [pid 2216:tid 720] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 14 15:52:56.748418 2023] [mpm_winnt:notice] [pid 2216:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Feb 14 15:52:56.748418 2023] [mpm_winnt:notice] [pid 2216:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Feb 14 15:52:56.748418 2023] [core:notice] [pid 2216:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Feb 14 15:52:56.748418 2023] [mpm_winnt:notice] [pid 2216:tid 720] AH00418: Parent: Created child process 4688
+[Tue Feb 14 15:52:57.560976 2023] [mpm_winnt:notice] [pid 4688:tid 692] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 15 23:17:23.430588 2023] [mpm_winnt:notice] [pid 2216:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 15 23:17:25.508860 2023] [mpm_winnt:notice] [pid 4688:tid 692] AH00364: Child: All worker threads have exited.
+[Wed Feb 15 23:17:28.384062 2023] [mpm_winnt:notice] [pid 2216:tid 720] AH00430: Parent: Child process 4688 exited successfully.
+[Thu Feb 16 09:05:17.039492 2023] [mpm_winnt:notice] [pid 3236:tid 756] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Feb 16 09:05:17.039492 2023] [mpm_winnt:notice] [pid 3236:tid 756] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Feb 16 09:05:17.039492 2023] [core:notice] [pid 3236:tid 756] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Feb 16 09:05:17.039492 2023] [mpm_winnt:notice] [pid 3236:tid 756] AH00418: Parent: Created child process 5020
+[Thu Feb 16 09:05:17.805173 2023] [mpm_winnt:notice] [pid 5020:tid 576] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 19 23:02:49.451838 2023] [mpm_winnt:notice] [pid 3236:tid 756] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 19 23:02:51.545741 2023] [mpm_winnt:notice] [pid 5020:tid 576] AH00364: Child: All worker threads have exited.
+[Sun Feb 19 23:02:55.717921 2023] [mpm_winnt:notice] [pid 3236:tid 756] AH00430: Parent: Child process 5020 exited successfully.
+[Mon Feb 20 15:17:42.955531 2023] [mpm_winnt:notice] [pid 3360:tid 708] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Mon Feb 20 15:17:42.955531 2023] [mpm_winnt:notice] [pid 3360:tid 708] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon Feb 20 15:17:42.955531 2023] [core:notice] [pid 3360:tid 708] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Feb 20 15:17:42.955531 2023] [mpm_winnt:notice] [pid 3360:tid 708] AH00418: Parent: Created child process 3924
+[Mon Feb 20 15:17:43.533698 2023] [mpm_winnt:notice] [pid 3924:tid 580] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 02 00:17:59.432522 2023] [mpm_winnt:notice] [pid 3360:tid 708] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 02 00:18:01.510797 2023] [mpm_winnt:notice] [pid 3924:tid 580] AH00364: Child: All worker threads have exited.
+[Thu Mar 02 00:18:12.495973 2023] [mpm_winnt:notice] [pid 3360:tid 708] AH00430: Parent: Child process 3924 exited successfully.
+[Thu Mar 02 17:32:14.193084 2023] [mpm_winnt:notice] [pid 3276:tid 552] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Mar 02 17:32:14.193084 2023] [mpm_winnt:notice] [pid 3276:tid 552] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Mar 02 17:32:14.193084 2023] [core:notice] [pid 3276:tid 552] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Mar 02 17:32:14.193084 2023] [mpm_winnt:notice] [pid 3276:tid 552] AH00418: Parent: Created child process 4212
+[Thu Mar 02 17:32:14.755625 2023] [mpm_winnt:notice] [pid 4212:tid 712] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 03 01:55:15.887148 2023] [mpm_winnt:notice] [pid 3276:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 03 01:55:17.918548 2023] [mpm_winnt:notice] [pid 4212:tid 712] AH00364: Child: All worker threads have exited.
+[Fri Mar 03 01:55:23.918991 2023] [mpm_winnt:notice] [pid 3276:tid 552] AH00430: Parent: Child process 4212 exited successfully.
+[Fri Mar 03 13:46:51.987848 2023] [mpm_winnt:notice] [pid 3228:tid 536] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Mar 03 13:46:51.987848 2023] [mpm_winnt:notice] [pid 3228:tid 536] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Mar 03 13:46:51.987848 2023] [core:notice] [pid 3228:tid 536] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Mar 03 13:46:51.987848 2023] [mpm_winnt:notice] [pid 3228:tid 536] AH00418: Parent: Created child process 5044
+[Fri Mar 03 13:46:52.612894 2023] [mpm_winnt:notice] [pid 5044:tid 668] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 09 23:01:40.007722 2023] [mpm_winnt:notice] [pid 3228:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 09 23:01:42.039121 2023] [mpm_winnt:notice] [pid 5044:tid 668] AH00364: Child: All worker threads have exited.
+[Thu Mar 09 23:01:44.179904 2023] [mpm_winnt:notice] [pid 3228:tid 536] AH00430: Parent: Child process 5044 exited successfully.
+[Fri Mar 10 07:44:42.859932 2023] [mpm_winnt:notice] [pid 3184:tid 592] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Mar 10 07:44:42.859932 2023] [mpm_winnt:notice] [pid 3184:tid 592] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Mar 10 07:44:42.859932 2023] [core:notice] [pid 3184:tid 592] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Mar 10 07:44:42.859932 2023] [mpm_winnt:notice] [pid 3184:tid 592] AH00418: Parent: Created child process 4964
+[Fri Mar 10 07:44:43.469351 2023] [mpm_winnt:notice] [pid 4964:tid 568] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 10 08:11:31.975030 2023] [mpm_winnt:notice] [pid 3184:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 10 08:11:34.006429 2023] [mpm_winnt:notice] [pid 4964:tid 568] AH00364: Child: All worker threads have exited.
+[Fri Mar 10 08:11:35.162763 2023] [mpm_winnt:notice] [pid 3184:tid 592] AH00430: Parent: Child process 4964 exited successfully.
+[Fri Mar 10 15:13:34.080346 2023] [mpm_winnt:notice] [pid 3156:tid 552] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Mar 10 15:13:34.080346 2023] [mpm_winnt:notice] [pid 3156:tid 552] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Mar 10 15:13:34.080346 2023] [core:notice] [pid 3156:tid 552] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Mar 10 15:13:34.080346 2023] [mpm_winnt:notice] [pid 3156:tid 552] AH00418: Parent: Created child process 5036
+[Fri Mar 10 15:13:34.767896 2023] [mpm_winnt:notice] [pid 5036:tid 688] AH00354: Child: Starting 64 worker threads.
+[Sat Mar 11 00:47:39.634607 2023] [mpm_winnt:notice] [pid 3156:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 11 00:47:41.666006 2023] [mpm_winnt:notice] [pid 5036:tid 688] AH00364: Child: All worker threads have exited.
+[Sat Mar 11 00:47:44.869364 2023] [mpm_winnt:notice] [pid 3156:tid 552] AH00430: Parent: Child process 5036 exited successfully.
+[Sat Mar 11 13:05:20.143098 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sat Mar 11 13:05:20.143098 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sat Mar 11 13:05:20.143098 2023] [core:notice] [pid 3168:tid 748] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Mar 11 13:05:20.143098 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00418: Parent: Created child process 4548
+[Sat Mar 11 13:05:20.846276 2023] [mpm_winnt:notice] [pid 4548:tid 712] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 12 21:24:11.834546 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00428: Parent: child process 4548 exited with status 1 -- Restarting.
+[Sun Mar 12 21:24:12.736545 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sun Mar 12 21:24:12.736545 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sun Mar 12 21:24:12.736545 2023] [core:notice] [pid 3168:tid 748] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Mar 12 21:24:12.763635 2023] [mpm_winnt:notice] [pid 3168:tid 748] AH00418: Parent: Created child process 9388
+[Sun Mar 12 21:24:13.278843 2023] [mpm_winnt:notice] [pid 9388:tid 700] AH00354: Child: Starting 64 worker threads.
+[Sun Mar 12 21:24:13.285867 2023] [mpm_winnt:crit] [pid 9388:tid 700] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Mar 12 21:24:13.285867 2023] [mpm_winnt:warn] [pid 9388:tid 1208] (OS 995)Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sun Mar 12 21:24:13.286871 2023] [mpm_winnt:warn] [pid 9388:tid 1212] (OS 995)Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sun Mar 12 21:24:15.292030 2023] [mpm_winnt:notice] [pid 9388:tid 700] AH00364: Child: All worker threads have exited.
+[Tue Mar 14 16:45:26.799779 2023] [core:warn] [pid 3092:tid 684] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 14 16:45:26.799779 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 16:45:26.799779 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 16:45:26.799779 2023] [core:notice] [pid 3092:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 16:45:26.799779 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00418: Parent: Created child process 4232
+[Tue Mar 14 16:45:27.315440 2023] [mpm_winnt:notice] [pid 4232:tid 616] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 3092:tid 684] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Mar 14 20:07:49.998160 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 20:07:49.998160 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 20:07:49.998160 2023] [core:notice] [pid 3092:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 20:07:50.002173 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00418: Parent: Created child process 8756
+[Tue Mar 14 20:07:50.966875 2023] [mpm_winnt:notice] [pid 8756:tid 624] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 14 20:07:51.972210 2023] [mpm_winnt:notice] [pid 4232:tid 616] AH00364: Child: All worker threads have exited.
+[Tue Mar 14 20:20:08.547338 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 14 20:20:10.555499 2023] [mpm_winnt:notice] [pid 8756:tid 624] AH00364: Child: All worker threads have exited.
+[Tue Mar 14 20:20:11.894449 2023] [mpm_winnt:notice] [pid 3092:tid 684] AH00430: Parent: Child process 8756 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 1068:tid 624] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 20:33:39.249050 2023] [mpm_winnt:notice] [pid 1068:tid 624] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 20:33:39.249050 2023] [core:notice] [pid 1068:tid 624] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 20:33:39.253064 2023] [mpm_winnt:notice] [pid 1068:tid 624] AH00418: Parent: Created child process 6332
+[Tue Mar 14 20:33:39.726640 2023] [mpm_winnt:notice] [pid 6332:tid 668] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 14 21:28:12.676601 2023] [mpm_winnt:notice] [pid 1068:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 14 21:28:14.707994 2023] [mpm_winnt:notice] [pid 6332:tid 668] AH00364: Child: All worker threads have exited.
+[Tue Mar 14 21:28:16.583127 2023] [mpm_winnt:notice] [pid 1068:tid 624] AH00430: Parent: Child process 6332 exited successfully.
+[Tue Mar 14 21:28:48.602007 2023] [mpm_winnt:notice] [pid 3420:tid 612] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 21:28:48.602007 2023] [mpm_winnt:notice] [pid 3420:tid 612] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 21:28:48.602007 2023] [core:notice] [pid 3420:tid 612] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 21:28:48.602007 2023] [mpm_winnt:notice] [pid 3420:tid 612] AH00418: Parent: Created child process 3244
+[Tue Mar 14 21:28:49.242679 2023] [mpm_winnt:notice] [pid 3244:tid 700] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 14 23:17:14.289637 2023] [mpm_winnt:notice] [pid 3420:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 14 23:17:23.460566 2023] [mpm_winnt:notice] [pid 3244:tid 700] AH00364: Child: All worker threads have exited.
+[Tue Mar 14 23:17:24.004873 2023] [mpm_winnt:notice] [pid 3420:tid 612] AH00430: Parent: Child process 3244 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 2600:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 23:17:27.881755 2023] [mpm_winnt:notice] [pid 2600:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 23:17:27.881755 2023] [core:notice] [pid 2600:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 23:17:27.886771 2023] [mpm_winnt:notice] [pid 2600:tid 720] AH00418: Parent: Created child process 10268
+[Tue Mar 14 23:17:28.431579 2023] [mpm_winnt:notice] [pid 10268:tid 620] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 14 23:34:47.100682 2023] [mpm_winnt:notice] [pid 2600:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 14 23:34:49.110352 2023] [mpm_winnt:notice] [pid 10268:tid 620] AH00364: Child: All worker threads have exited.
+[Tue Mar 14 23:34:49.260350 2023] [mpm_winnt:notice] [pid 2600:tid 720] AH00430: Parent: Child process 10268 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 9140:tid 556] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 23:34:53.155304 2023] [mpm_winnt:notice] [pid 9140:tid 556] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 23:34:53.155304 2023] [core:notice] [pid 9140:tid 556] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 23:34:53.159317 2023] [mpm_winnt:notice] [pid 9140:tid 556] AH00418: Parent: Created child process 15136
+[Tue Mar 14 23:34:53.613327 2023] [mpm_winnt:notice] [pid 15136:tid 660] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 14 23:36:31.639961 2023] [mpm_winnt:notice] [pid 9140:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 14 23:37:01.654078 2023] [mpm_winnt:notice] [pid 9140:tid 556] AH00431: Parent: Forcing termination of child process 15136
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 3664:tid 688] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Mar 14 23:37:34.854451 2023] [mpm_winnt:notice] [pid 3664:tid 688] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Mar 14 23:37:34.854451 2023] [core:notice] [pid 3664:tid 688] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Mar 14 23:37:34.861474 2023] [mpm_winnt:notice] [pid 3664:tid 688] AH00418: Parent: Created child process 14376
+[Tue Mar 14 23:37:35.405292 2023] [mpm_winnt:notice] [pid 14376:tid 676] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 00:09:50.354596 2023] [mpm_winnt:notice] [pid 3664:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 00:10:20.369832 2023] [mpm_winnt:notice] [pid 3664:tid 688] AH00431: Parent: Forcing termination of child process 14376
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 2328:tid 760] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 00:10:49.387660 2023] [mpm_winnt:notice] [pid 2328:tid 760] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 00:10:49.387660 2023] [core:notice] [pid 2328:tid 760] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 00:10:49.392677 2023] [mpm_winnt:notice] [pid 2328:tid 760] AH00418: Parent: Created child process 14372
+[Wed Mar 15 00:10:49.962574 2023] [mpm_winnt:notice] [pid 14372:tid 548] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 00:16:25.464236 2023] [mpm_winnt:notice] [pid 2328:tid 760] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 00:16:27.478928 2023] [mpm_winnt:notice] [pid 14372:tid 548] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 00:16:27.787955 2023] [mpm_winnt:notice] [pid 2328:tid 760] AH00430: Parent: Child process 14372 exited successfully.
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 1848:tid 776] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 10:51:04.758357 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 10:51:04.759360 2023] [core:notice] [pid 1848:tid 776] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 10:51:04.763374 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00418: Parent: Created child process 5420
+[Wed Mar 15 10:51:05.207351 2023] [mpm_winnt:notice] [pid 5420:tid 664] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 11:04:31.510404 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 11:04:33.523584 2023] [mpm_winnt:notice] [pid 5420:tid 664] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 11:04:33.735787 2023] [mpm_winnt:notice] [pid 1848:tid 776] AH00430: Parent: Child process 5420 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 13808:tid 716] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 11:04:37.586580 2023] [mpm_winnt:notice] [pid 13808:tid 716] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 11:04:37.586580 2023] [core:notice] [pid 13808:tid 716] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 11:04:37.590594 2023] [mpm_winnt:notice] [pid 13808:tid 716] AH00418: Parent: Created child process 3044
+[Wed Mar 15 11:04:38.026039 2023] [mpm_winnt:notice] [pid 3044:tid 608] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 12:06:53.577577 2023] [mpm_winnt:notice] [pid 13808:tid 716] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 12:06:55.585250 2023] [mpm_winnt:notice] [pid 3044:tid 608] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 12:06:55.671536 2023] [mpm_winnt:notice] [pid 13808:tid 716] AH00430: Parent: Child process 3044 exited successfully.
+[Wed Mar 15 13:13:34.307212 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 13:13:34.307212 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 13:13:34.307212 2023] [core:notice] [pid 3308:tid 736] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 13:13:34.307212 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00418: Parent: Created child process 3220
+[Wed Mar 15 13:13:34.901005 2023] [mpm_winnt:notice] [pid 3220:tid 652] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+TWed Mar 15 13:33:46.007645 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Mar 15 13:33:46.040260 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 13:33:46.040260 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 13:33:46.040260 2023] [core:notice] [pid 3308:tid 736] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 13:33:46.044272 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00418: Parent: Created child process 8400
+[Wed Mar 15 13:33:47.019074 2023] [mpm_winnt:notice] [pid 8400:tid 616] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 13:33:48.033036 2023] [mpm_winnt:notice] [pid 3220:tid 652] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 14:15:40.021069 2023] [authz_core:error] [pid 8400:tid 1160] [client 127.0.0.1:51486] AH01630: client denied by server configuration: C:/Server/CatalogMobile
+[Wed Mar 15 14:16:07.553712 2023] [authz_core:error] [pid 8400:tid 1160] [client 127.0.0.1:51517] AH01630: client denied by server configuration: C:/Server/CatalogMobile
+[Wed Mar 15 14:16:21.157634 2023] [authz_core:error] [pid 8400:tid 1160] [client 127.0.0.1:51526] AH01630: client denied by server configuration: C:/Server/CatalogMobile
+[Wed Mar 15 14:16:25.861892 2023] [authz_core:error] [pid 8400:tid 1160] [client 127.0.0.1:51526] AH01630: client denied by server configuration: C:/Server/CatalogMobile
+[Wed Mar 15 14:19:27.828497 2023] [authz_core:error] [pid 8400:tid 1160] [client 127.0.0.1:51653] AH01630: client denied by server configuration: C:/Server/CatalogMobile
+[Wed Mar 15 14:20:39.269136 2023] [authz_core:error] [pid 8400:tid 1160] [client 127.0.0.1:51687] AH01630: client denied by server configuration: C:/Server/CatalogMobile
+[Wed Mar 15 14:20:46.637716 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 14:20:48.655925 2023] [mpm_winnt:notice] [pid 8400:tid 616] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 14:20:49.171639 2023] [mpm_winnt:notice] [pid 3308:tid 736] AH00430: Parent: Child process 8400 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 5048:tid 772] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 14:20:52.933661 2023] [mpm_winnt:notice] [pid 5048:tid 772] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 14:20:52.933661 2023] [core:notice] [pid 5048:tid 772] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 14:20:52.938678 2023] [mpm_winnt:notice] [pid 5048:tid 772] AH00418: Parent: Created child process 4392
+[Wed Mar 15 14:20:53.507573 2023] [mpm_winnt:notice] [pid 4392:tid 640] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 14:26:30.513055 2023] [mpm_winnt:notice] [pid 5048:tid 772] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 14:27:00.525816 2023] [mpm_winnt:notice] [pid 5048:tid 772] AH00431: Parent: Forcing termination of child process 4392
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 4424:tid 688] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 14:27:12.014102 2023] [mpm_winnt:notice] [pid 4424:tid 688] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 14:27:12.014102 2023] [core:notice] [pid 4424:tid 688] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 14:27:12.018116 2023] [mpm_winnt:notice] [pid 4424:tid 688] AH00418: Parent: Created child process 8912
+[Wed Mar 15 14:27:12.460097 2023] [mpm_winnt:notice] [pid 8912:tid 556] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 14:38:00.895526 2023] [mpm_winnt:notice] [pid 4424:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 14:38:02.913731 2023] [mpm_winnt:notice] [pid 8912:tid 556] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 14:38:03.048680 2023] [mpm_winnt:notice] [pid 4424:tid 688] AH00430: Parent: Child process 8912 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 464:tid 576] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 14:50:47.340186 2023] [mpm_winnt:notice] [pid 464:tid 576] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 14:50:47.340186 2023] [core:notice] [pid 464:tid 576] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 14:50:47.344199 2023] [mpm_winnt:notice] [pid 464:tid 576] AH00418: Parent: Created child process 16000
+[Wed Mar 15 14:50:47.839847 2023] [mpm_winnt:notice] [pid 16000:tid 696] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 14:52:53.463907 2023] [mpm_winnt:notice] [pid 464:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 14:53:23.470025 2023] [mpm_winnt:notice] [pid 464:tid 576] AH00431: Parent: Forcing termination of child process 16000
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 7908:tid 668] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 14:53:24.857149 2023] [mpm_winnt:notice] [pid 7908:tid 668] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 14:53:24.857149 2023] [core:notice] [pid 7908:tid 668] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 14:53:24.861162 2023] [mpm_winnt:notice] [pid 7908:tid 668] AH00418: Parent: Created child process 4084
+[Wed Mar 15 14:53:25.307649 2023] [mpm_winnt:notice] [pid 4084:tid 624] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 14:53:32.307882 2023] [mpm_winnt:notice] [pid 7908:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 14:53:34.320067 2023] [mpm_winnt:notice] [pid 4084:tid 624] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 14:53:34.346156 2023] [mpm_winnt:notice] [pid 7908:tid 668] AH00430: Parent: Child process 4084 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 2668:tid 712] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Mar 15 14:53:36.186771 2023] [mpm_winnt:notice] [pid 2668:tid 712] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Mar 15 14:53:36.186771 2023] [core:notice] [pid 2668:tid 712] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Mar 15 14:53:36.190785 2023] [mpm_winnt:notice] [pid 2668:tid 712] AH00418: Parent: Created child process 5260
+[Wed Mar 15 14:53:36.626733 2023] [mpm_winnt:notice] [pid 5260:tid 600] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 15 15:00:46.925323 2023] [mpm_winnt:notice] [pid 2668:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 15 15:00:48.941513 2023] [mpm_winnt:notice] [pid 5260:tid 600] AH00364: Child: All worker threads have exited.
+[Wed Mar 15 15:00:49.100541 2023] [mpm_winnt:notice] [pid 2668:tid 712] AH00430: Parent: Child process 5260 exited successfully.
+[Fri Mar 24 09:38:09.753474 2023] [mpm_winnt:notice] [pid 3280:tid 744] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Mar 24 09:38:09.753474 2023] [mpm_winnt:notice] [pid 3280:tid 744] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Mar 24 09:38:09.769100 2023] [core:notice] [pid 3280:tid 744] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Mar 24 09:38:09.769100 2023] [mpm_winnt:notice] [pid 3280:tid 744] AH00418: Parent: Created child process 3924
+[Fri Mar 24 09:38:10.534781 2023] [mpm_winnt:notice] [pid 3924:tid 236] AH00354: Child: Starting 64 worker threads.
+[Sat Mar 25 00:57:59.197938 2023] [mpm_winnt:notice] [pid 3280:tid 744] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 25 00:58:01.307466 2023] [mpm_winnt:notice] [pid 3924:tid 236] AH00364: Child: All worker threads have exited.
+[Sat Mar 25 00:58:04.227935 2023] [mpm_winnt:notice] [pid 3280:tid 744] AH00430: Parent: Child process 3924 exited successfully.
+[Sat Mar 25 09:38:00.783597 2023] [mpm_winnt:notice] [pid 3336:tid 688] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Sat Mar 25 09:38:00.799223 2023] [mpm_winnt:notice] [pid 3336:tid 688] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Sat Mar 25 09:38:00.799223 2023] [core:notice] [pid 3336:tid 688] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Mar 25 09:38:00.799223 2023] [mpm_winnt:notice] [pid 3336:tid 688] AH00418: Parent: Created child process 1200
+[Sat Mar 25 09:38:01.502396 2023] [mpm_winnt:notice] [pid 1200:tid 644] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 30 15:53:32.417737 2023] [core:warn] [pid 3104:tid 692] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 30 15:53:32.417737 2023] [mpm_winnt:notice] [pid 3104:tid 692] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Mar 30 15:53:32.417737 2023] [mpm_winnt:notice] [pid 3104:tid 692] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Mar 30 15:53:32.417737 2023] [core:notice] [pid 3104:tid 692] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Mar 30 15:53:32.417737 2023] [mpm_winnt:notice] [pid 3104:tid 692] AH00418: Parent: Created child process 5016
+[Thu Mar 30 15:53:33.042783 2023] [mpm_winnt:notice] [pid 5016:tid 660] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 30 15:57:56.464411 2023] [core:warn] [pid 3208:tid 552] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 30 15:57:56.464411 2023] [mpm_winnt:notice] [pid 3208:tid 552] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Mar 30 15:57:56.464411 2023] [mpm_winnt:notice] [pid 3208:tid 552] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Mar 30 15:57:56.464411 2023] [core:notice] [pid 3208:tid 552] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Mar 30 15:57:56.464411 2023] [mpm_winnt:notice] [pid 3208:tid 552] AH00418: Parent: Created child process 4856
+[Thu Mar 30 15:57:57.136334 2023] [mpm_winnt:notice] [pid 4856:tid 700] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 30 16:04:15.479335 2023] [core:warn] [pid 8:tid 724] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 30 16:04:15.479335 2023] [mpm_winnt:notice] [pid 8:tid 724] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Mar 30 16:04:15.479335 2023] [mpm_winnt:notice] [pid 8:tid 724] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Mar 30 16:04:15.479335 2023] [core:notice] [pid 8:tid 724] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Mar 30 16:04:15.479335 2023] [mpm_winnt:notice] [pid 8:tid 724] AH00418: Parent: Created child process 5056
+[Thu Mar 30 16:04:16.151258 2023] [mpm_winnt:notice] [pid 5056:tid 572] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 30 16:09:24.792700 2023] [core:warn] [pid 2876:tid 732] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 30 16:09:24.792700 2023] [mpm_winnt:notice] [pid 2876:tid 732] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Mar 30 16:09:24.792700 2023] [mpm_winnt:notice] [pid 2876:tid 732] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Mar 30 16:09:24.792700 2023] [core:notice] [pid 2876:tid 732] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Mar 30 16:09:24.792700 2023] [mpm_winnt:notice] [pid 2876:tid 732] AH00418: Parent: Created child process 4972
+[Thu Mar 30 16:09:25.495874 2023] [mpm_winnt:notice] [pid 4972:tid 668] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 30 20:24:19.135009 2023] [core:warn] [pid 3008:tid 624] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 30 20:24:19.135009 2023] [mpm_winnt:notice] [pid 3008:tid 624] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Thu Mar 30 20:24:19.135009 2023] [mpm_winnt:notice] [pid 3008:tid 624] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Thu Mar 30 20:24:19.135009 2023] [core:notice] [pid 3008:tid 624] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Mar 30 20:24:19.135009 2023] [mpm_winnt:notice] [pid 3008:tid 624] AH00418: Parent: Created child process 5024
+[Thu Mar 30 20:24:19.806934 2023] [mpm_winnt:notice] [pid 5024:tid 576] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 04 16:39:39.442574 2023] [core:warn] [pid 3180:tid 636] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 04 16:39:39.458200 2023] [mpm_winnt:notice] [pid 3180:tid 636] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Tue Apr 04 16:39:39.458200 2023] [mpm_winnt:notice] [pid 3180:tid 636] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Tue Apr 04 16:39:39.458200 2023] [core:notice] [pid 3180:tid 636] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Apr 04 16:39:39.458200 2023] [mpm_winnt:notice] [pid 3180:tid 636] AH00418: Parent: Created child process 4968
+[Tue Apr 04 16:39:40.161376 2023] [mpm_winnt:notice] [pid 4968:tid 576] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 05 20:16:18.547517 2023] [mpm_winnt:notice] [pid 3180:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 05 20:16:20.578912 2023] [mpm_winnt:notice] [pid 4968:tid 576] AH00364: Child: All worker threads have exited.
+[Wed Apr 05 20:16:23.610379 2023] [mpm_winnt:notice] [pid 3180:tid 636] AH00430: Parent: Child process 4968 exited successfully.
+[Wed Apr 05 20:16:54.747278 2023] [mpm_winnt:notice] [pid 3276:tid 668] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Apr 05 20:16:54.747278 2023] [mpm_winnt:notice] [pid 3276:tid 668] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Apr 05 20:16:54.747278 2023] [core:notice] [pid 3276:tid 668] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Apr 05 20:16:54.747278 2023] [mpm_winnt:notice] [pid 3276:tid 668] AH00418: Parent: Created child process 3272
+[Wed Apr 05 20:16:55.356697 2023] [mpm_winnt:notice] [pid 3272:tid 556] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 06 23:27:34.714532 2023] [mpm_winnt:notice] [pid 3276:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 06 23:27:36.808437 2023] [mpm_winnt:notice] [pid 3272:tid 556] AH00364: Child: All worker threads have exited.
+[Thu Apr 06 23:27:38.949219 2023] [mpm_winnt:notice] [pid 3276:tid 668] AH00430: Parent: Child process 3272 exited successfully.
+[Fri Apr 07 16:23:06.734956 2023] [mpm_winnt:notice] [pid 3104:tid 832] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Fri Apr 07 16:23:06.734956 2023] [mpm_winnt:notice] [pid 3104:tid 832] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Fri Apr 07 16:23:06.734956 2023] [core:notice] [pid 3104:tid 832] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Apr 07 16:23:06.734956 2023] [mpm_winnt:notice] [pid 3104:tid 832] AH00418: Parent: Created child process 888
+[Fri Apr 07 16:23:07.391253 2023] [mpm_winnt:notice] [pid 888:tid 624] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 12 23:08:08.792989 2023] [mpm_winnt:notice] [pid 3104:tid 832] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 12 23:08:10.825248 2023] [mpm_winnt:notice] [pid 888:tid 624] AH00364: Child: All worker threads have exited.
+[Wed Apr 12 23:08:10.881938 2023] [mpm_winnt:notice] [pid 3104:tid 832] AH00430: Parent: Child process 888 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 20080:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Apr 12 23:09:32.258763 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Apr 12 23:09:32.258763 2023] [core:notice] [pid 20080:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Apr 12 23:09:32.263286 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00418: Parent: Created child process 1572
+[Wed Apr 12 23:09:32.715785 2023] [mpm_winnt:notice] [pid 1572:tid 592] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+[Wed Apr 12 23:11:30.212133 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Apr 12 23:11:30.237217 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Apr 12 23:11:30.237217 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Apr 12 23:11:30.237217 2023] [core:notice] [pid 20080:tid 720] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Apr 12 23:11:30.241231 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00418: Parent: Created child process 12476
+[Wed Apr 12 23:11:31.212951 2023] [mpm_winnt:notice] [pid 12476:tid 628] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 12 23:11:39.562154 2023] [mpm_winnt:notice] [pid 1572:tid 592] AH00364: Child: All worker threads have exited.
+[Wed Apr 12 23:27:57.482296 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 12 23:27:59.484979 2023] [mpm_winnt:notice] [pid 12476:tid 628] AH00364: Child: All worker threads have exited.
+[Wed Apr 12 23:27:59.736315 2023] [mpm_winnt:notice] [pid 20080:tid 720] AH00430: Parent: Child process 12476 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 23172:tid 632] AH00455: Apache/2.4.41 (Win32) configured -- resuming normal operations
+[Wed Apr 12 23:32:27.806936 2023] [mpm_winnt:notice] [pid 23172:tid 632] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Wed Apr 12 23:32:27.806936 2023] [core:notice] [pid 23172:tid 632] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Apr 12 23:32:27.811953 2023] [mpm_winnt:notice] [pid 23172:tid 632] AH00418: Parent: Created child process 1840
+[Wed Apr 12 23:32:28.264456 2023] [mpm_winnt:notice] [pid 1840:tid 660] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 13 00:02:08.862335 2023] [mpm_winnt:notice] [pid 23172:tid 632] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 13 00:02:10.864472 2023] [mpm_winnt:notice] [pid 1840:tid 660] AH00364: Child: All worker threads have exited.
+[Thu Apr 13 00:02:11.047581 2023] [mpm_winnt:notice] [pid 23172:tid 632] AH00430: Parent: Child process 1840 exited successfully.
