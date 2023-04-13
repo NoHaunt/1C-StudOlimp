@@ -92,4 +92,7 @@
 {1,d0c50384-a9e6-462f-8aea-f8ddfc81fe6e,"reg_user",9},
 {4,"_$User$_.Delete",23},
 {1,07d944bf-4d4d-4cac-b260-87486fa9c090,"dfada",10},
-{13,2,10}
+{13,2,10},
+{4,"_$InfoBase$_.DBConfigUpdateError",24},
+{4,"_$Data$_.Unpost",25},
+{1,87f0ff9e-fa06-4a57-98ef-7b13b990b34a,"ИвановИИ",11}

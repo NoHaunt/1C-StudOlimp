@@ -11,4 +11,13 @@
 			poolSize="10"
 			poolTimeout="5"/>
 	<analytics enable="true"/>
+	<httpServices>
+		<service name="ЦентральныйСервер"
+				rootUrl="CentralService"
+				enable="true"
+				reuseSessions="autouse"
+				sessionMaxAge="20"
+				poolSize="10"
+				poolTimeout="5"/>
+	</httpServices>
 </point>
